@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @suyashvyas
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning BCA
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail - suyash2004pro@gmail.com
 
 <!---
